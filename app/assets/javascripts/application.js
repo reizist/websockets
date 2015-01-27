@@ -12,7 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
-//= require_tree .
+//= require bootstrap
 //= require websocket_rails/main
-
+//= require test
+//= require_tree .
